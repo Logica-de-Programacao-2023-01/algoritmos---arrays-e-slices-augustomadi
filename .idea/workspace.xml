@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d0c3c7f-5d0f-4559-a697-2ddb71cee2f7" name="Changes" comment="" />
+    <list default="true" id="6d0c3c7f-5d0f-4559-a697-2ddb71cee2f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/array_slice10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_slice11.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_slice12.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_slice13.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_slice14.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_slice15.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_slice16.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_slice17.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_slice18.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_slice19.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_slice20.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_slice5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_slice6.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_slice7.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_slice8.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_slice9.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice1.go" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice2.go" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice3.go" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array_slice4.go" beforeDir="false" afterPath="$PROJECT_DIR$/array_slice4.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../Program Files/Go" />
+  <component name="GOROOT" url="file://$USER_HOME$/sdk/go1.20.2" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -38,43 +60,64 @@
     &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;configurable..is.expanded&quot;: &quot;false&quot;,
+    &quot;configurable.GoLibrariesConfigurable.is.expanded&quot;: &quot;true&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/augustomadi/repos/algoritmos---arrays-e-slices-augustomadi&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/repos/algoritmos---arrays-e-slices-augustomadi&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.goide.configuration.GoLibrariesConfigurableProvider&quot;
   }
 }</component>
-  <component name="RunManager" selected="Go Build.go build array_slice3.go">
-    <configuration name="go build array_slice1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build array_slice20.go">
+    <configuration name="go build array_slice15.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-augustomadi" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/array_slice1.go" />
+      <filePath value="$PROJECT_DIR$/array_slice15.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build array_slice2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build array_slice16.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-augustomadi" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/array_slice2.go" />
+      <filePath value="$PROJECT_DIR$/array_slice16.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build array_slice3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build array_slice17.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---arrays-e-slices-augustomadi" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/array_slice3.go" />
+      <filePath value="$PROJECT_DIR$/array_slice17.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build array_slice19.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos---arrays-e-slices-augustomadi" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/array_slice19.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build array_slice20.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos---arrays-e-slices-augustomadi" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/array_slice20.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build array_slice3.go" />
-        <item itemvalue="Go Build.go build array_slice1.go" />
-        <item itemvalue="Go Build.go build array_slice2.go" />
+        <item itemvalue="Go Build.go build array_slice20.go" />
+        <item itemvalue="Go Build.go build array_slice19.go" />
+        <item itemvalue="Go Build.go build array_slice17.go" />
+        <item itemvalue="Go Build.go build array_slice16.go" />
+        <item itemvalue="Go Build.go build array_slice15.go" />
       </list>
     </recent_temporary>
   </component>
